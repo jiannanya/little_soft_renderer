@@ -12,5 +12,5 @@ a soft renderer demo implemented in C++
 
 ## result    
 
-![sss](./asset/res_img/res_img.png)
+![sss](./asset/res_img/res_img.gif)
 
