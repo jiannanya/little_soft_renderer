@@ -1,0 +1,3 @@
+D:/git/soft_renderer/vendor/glm/out/build/x64-Debug/CMakeFiles/CMakeTmp/CMakeFiles/rebuild_cache.dir
+D:/git/soft_renderer/vendor/glm/out/build/x64-Debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_efb07.dir
+D:/git/soft_renderer/vendor/glm/out/build/x64-Debug/CMakeFiles/CMakeTmp/CMakeFiles/edit_cache.dir
